@@ -10,6 +10,7 @@ My GitHub page is http://github.com/ldejong20.
 
 
 * Lab 1
+  
 	  Lab 1 was a favorite because it marked the start of my journey into
     computer science. While the contents of this lab are not very
     complicated, and the task it solves is rudimentary at best, it serves
@@ -20,6 +21,7 @@ My GitHub page is http://github.com/ldejong20.
 
 
 * Lab 6
+  
 	The first part of Lab 6 was a favorite because it showed an accumulation of
   everything that had been learned so far. Using if statements, double variables,
   and vectors, the program was able to find the Olympic average of scores. This lab
@@ -27,6 +29,7 @@ My GitHub page is http://github.com/ldejong20.
 
 
 * Lab 9
+  
 	The second part of Lab 9 is the other lab that I liked the most. The use of Booleans 
   in combination with if statements and strings allowed for the program to answer a 
   variation on the dining philosophers’ problem. This lab took a lot of work to try and 
