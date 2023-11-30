@@ -11,7 +11,7 @@ My GitHub page is http://github.com/ldejong20.
 
 * Lab 1
   
-	  Lab 1 was a favorite because it marked the start of my journey into
+	 Lab 1 was a favorite because it marked the start of my journey into
     computer science. While the contents of this lab are not very
     complicated, and the task it solves is rudimentary at best, it serves
     as a good launching point for all my future work in computer science.
