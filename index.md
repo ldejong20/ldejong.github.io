@@ -1,4 +1,4 @@
-# Hello World
+# CPSC 120L Portfolio
 
 This is my home page! My name is Liam De Jong and I am a student at [Cal State Fullerton](http://www.fullerton.edu/) and my major is Japanese.
 
